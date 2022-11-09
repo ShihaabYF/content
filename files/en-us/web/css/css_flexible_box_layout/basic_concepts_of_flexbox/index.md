@@ -31,11 +31,11 @@ The main axis is defined by `flex-direction`, which has four possible values:
 - `column`
 - `column-reverse`
 
-Should you choose `row` or `row-reverse`, your main axis will run along the row in the **inline direction**.
+Should you choose `row` or `row-reverse`, your main axis will run **horizontally** along the row in the **inline direction**.
 
 ![If flex-direction is set to row the main axis runs along the row in the inline direction.](basics1.png)
 
-Choose `column` or `column-reverse` and your main axis will run from the top of the page to the bottom — in the **block direction**.
+Choose `column` or `column-reverse` and your main axis will run **vertically** from the top of the page to the bottom **or** from the bottom of the page to the top respectively— in the **block direction**.
 
 ![If flex-direction is set to column the main axis runs in the block direction.](basics2.png)
 
