@@ -44,7 +44,7 @@ map(function (element, index, array) { /* … */ }, thisArg)
 
 - `callbackFn`
 
-  - : A function to execute for each element in the array. Its return value is added as a single element in the new array.
+  - : A function to execute for each element in the array. Its returned value is added as a single element in the new array.
 
     The function is called with the following arguments:
 
